@@ -16,7 +16,7 @@ At file nightwatch.json changes:
         "webdriver.gecko.driver" : "drivers/geckodriver.exe"
    }
  ``` 
- Build project:
+ Build unit test:
  
  + Start Server: `java -jar selenium-server-standalone-3.4.0.jar`
  + Run Project: nightwatch 
